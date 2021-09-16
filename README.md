@@ -10,7 +10,9 @@ Of course you can specify the size of a image, but you have to edit the image ta
 画像のサイズを変更しようとすると、毎回下記のように手動で img タグを書き換えする必要があり、とても煩雑です。
 
 `![image](https://user-images.githubusercontent.com/26107262/132994209-7b8e5027-e158-443a-9aeb-7647b24b965f.png)`
+
 ↓
+
 `<img src="https://user-images.githubusercontent.com/26107262/132994209-7b8e5027-e158-443a-9aeb-7647b24b965f.png" width="300">`
 
 **Solution:** You can resize the image as you like by dragging and dropping.
