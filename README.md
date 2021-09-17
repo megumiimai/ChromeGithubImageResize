@@ -42,3 +42,9 @@ Then Add query parameters to he image URL.
 
 e.g.
 https://github.com/megumiimai/ChromeGithubImageResize/issues/1
+
+#### before use
+<img src="https://github.com/megumiimai/ChromeGithubImageResize/blob/main/img/before.gif" width="600">
+
+#### after use
+<img src="https://github.com/megumiimai/ChromeGithubImageResize/blob/main/img/after.gif" width="600">
